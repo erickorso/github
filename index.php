@@ -11,6 +11,8 @@
 	<dos>dos</dos>
 
 	<branch>branch01</branch>
+
+	<branch>branch02</branch>
 	
 	<tres>tres</tres>
 
